@@ -14,7 +14,7 @@ namespace HelloWorld
 
         public string Hello()
         {
-            return "Hello, World"
+            return "Hello, World";
         }
     }
 }
